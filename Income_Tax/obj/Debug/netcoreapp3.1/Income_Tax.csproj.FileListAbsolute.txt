@@ -1,0 +1,13 @@
+C:\Users\leand\source\repos\Income_Tax\Income_Tax\bin\Debug\netcoreapp3.1\Income_Tax.exe
+C:\Users\leand\source\repos\Income_Tax\Income_Tax\bin\Debug\netcoreapp3.1\Income_Tax.deps.json
+C:\Users\leand\source\repos\Income_Tax\Income_Tax\bin\Debug\netcoreapp3.1\Income_Tax.runtimeconfig.json
+C:\Users\leand\source\repos\Income_Tax\Income_Tax\bin\Debug\netcoreapp3.1\Income_Tax.runtimeconfig.dev.json
+C:\Users\leand\source\repos\Income_Tax\Income_Tax\bin\Debug\netcoreapp3.1\Income_Tax.dll
+C:\Users\leand\source\repos\Income_Tax\Income_Tax\bin\Debug\netcoreapp3.1\Income_Tax.pdb
+C:\Users\leand\source\repos\Income_Tax\Income_Tax\obj\Debug\netcoreapp3.1\Income_Tax.csproj.AssemblyReference.cache
+C:\Users\leand\source\repos\Income_Tax\Income_Tax\obj\Debug\netcoreapp3.1\Income_Tax.AssemblyInfoInputs.cache
+C:\Users\leand\source\repos\Income_Tax\Income_Tax\obj\Debug\netcoreapp3.1\Income_Tax.AssemblyInfo.cs
+C:\Users\leand\source\repos\Income_Tax\Income_Tax\obj\Debug\netcoreapp3.1\Income_Tax.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\Income_Tax\Income_Tax\obj\Debug\netcoreapp3.1\Income_Tax.dll
+C:\Users\leand\source\repos\Income_Tax\Income_Tax\obj\Debug\netcoreapp3.1\Income_Tax.pdb
+C:\Users\leand\source\repos\Income_Tax\Income_Tax\obj\Debug\netcoreapp3.1\Income_Tax.genruntimeconfig.cache
